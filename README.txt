@@ -1,19 +1,23 @@
 Hi!
 
-Welcome to my github portfolio repository. 
+Welcome to my portfolio repository. 
 
-At the moment there's a few different projects in here, along with my study records.
+Education:
+- 
 
-The main one is my data analysis project of which you'll find more information about in the 
-analysis_project directory.
 
-There's also some scripts for file server management. 
+At the moment there's a few different projects in here. 
 
-I also have some of my school work on here such as the wind power project, where all the analysis was done in python.
+- Please see my bachelor's thesis repository for my latest work: github.com/jim-anderssen/oxide-model-prediction
 
-I will be appending more projects to this portfolio as I continue in my studies. Thank you for 
-looking through my portfolio and feel free to get in touch.
+- File handling scripts is the directory for my server management scripts.
 
-December 2024
+- analysis_project is my indoor climate analysis. 
+
+- Some of my university projects are in the directory 'Older work', such as a wind power assessment, where all the analysis was done in python.
+
+Thank you for looking through my portfolio and feel free to get in touch.
+
+September 2025
 
 /Jim
