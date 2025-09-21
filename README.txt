@@ -2,10 +2,6 @@ Hi!
 
 Welcome to my portfolio repository. 
 
-Education:
-- 
-
-
 At the moment there's a few different projects in here. 
 
 - Please see my bachelor's thesis repository for my latest work: github.com/jim-anderssen/oxide-model-prediction
